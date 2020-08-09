@@ -82,3 +82,20 @@ body {
   transform: rotate(108deg);
 }
 
+.eyel, .eyer{
+  background-color: #000;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+	position: relative;
+}
+
+.eyel{
+  top: 40px;
+	left: 35px;
+}
+.eyer{
+  top: 25px;
+	left: 75px;
+}
+
